@@ -5,8 +5,7 @@ An Arduino Uno project where a 2-axis joystick controls two servo motors (black 
 ![Circuit Setup](joystick-2servo-circuit-photo.jpeg)
 
 ## 🎥 Demo
-[Watch the Demo Video](joystick-2servo-demo-video.mp4?raw=true)
-
+[▶️ Click here to watch the Demo Video](https://raw.githubusercontent.com/pranav-478/joystick-servo-control/main/joystick-2servo-demo-video.mp4)
 ## 🛠️ Components Used
 - **Arduino Uno**
 - **2-Axis Joystick Module**
